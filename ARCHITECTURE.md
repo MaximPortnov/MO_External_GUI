@@ -114,7 +114,3 @@ getWorkingDirectory/
 
 - **[PROTOCOL.md](../PROTOCOL.md)** — формальная спецификация протокола обмена.  
 - **[specs/commands.md](../specs/commands.md)** — список поддерживаемых команд и их аргументов.  
-- **[docs/integration.md](../docs/integration.md)** — инструкция по подключению и настройке GUI.  
-- **[docs/troubleshooting.md](../docs/troubleshooting.md)** — описание типовых проблем и способов их решения.  
-- **[docs/examples.md](../docs/examples.md)** — примеры JSON-команд для `command.log`.  
-- **[docs/lua-extension.md](../docs/lua-extension.md)** — описание структуры Lua-надстройки и принципов работы.

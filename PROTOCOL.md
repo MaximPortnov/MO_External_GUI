@@ -27,7 +27,7 @@
 
 ## 📜 Пример файла `command.log`
 
-```
+```json
 {"id": 1, "cmd": "ADD_SHEET", "args": {"name": "Demo"}}
 {"id": 2, "cmd": "SET_CELL_TEXT", "args": {"sheet": 0, "addr": "A1", "text": "Привет из GUI"}}
 {"id": 3, "cmd": "SAVE_AS", "args": {"path": "C:/temp/demo.xlsx"}}
@@ -87,5 +87,4 @@
 
 - **[ARCHITECTURE.md](../ARCHITECTURE.md)** — логическая структура обмена и роли компонентов.  
 - **[specs/commands.md](../specs/commands.md)** — полное описание всех команд.  
-- **[docs/examples.md](../docs/examples.md)** — примеры `command.log` и готовые сценарии.  
-- **[docs/integration.md](../docs/integration.md)** — пошаговая инструкция по внедрению GUI.
+

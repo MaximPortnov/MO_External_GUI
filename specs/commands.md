@@ -99,5 +99,3 @@
 
 - **[PROTOCOL.md](../PROTOCOL.md)** — описание формата `command.log` и последовательности выполнения.  
 - **[ARCHITECTURE.md](../ARCHITECTURE.md)** — общая схема архитектуры GUI ↔ Lua.  
-- **[docs/examples.md](../docs/examples.md)** — готовые примеры команд.  
-- **[docs/integration.md](../docs/integration.md)** — как подключить протокол к своему проекту.

@@ -17,10 +17,6 @@
 
 - **[PROTOCOL.md](./PROTOCOL.md)** — формат сообщений и правила обмена между GUI и Lua.  
 - **[ARCHITECTURE.md](./ARCHITECTURE.md)** — общая схема работы и описание архитектуры.  
-- **[docs/](./docs)** — практические материалы: интеграция, примеры, устранение неполадок.  
-  - **[docs/integration.md](./docs/integration.md)** Инструкция по подключению GUI к Lua-надстройке
-  - **[docs/examples.md](./docs/examples.md)** Примеры JSON-команд для `command.log`
-  - **[docs/lua-extension.md](./docs/lua-extension.md)** Описание структуры и принципов Lua-надстройки
 - **[specs/commands.md](./specs/commands.md)** — список доступных команд и их аргументов.
 
 ---
@@ -40,7 +36,5 @@
 
 1. Прочитайте [ARCHITECTURE.md](./ARCHITECTURE.md), чтобы понять, как устроен обмен данными.  
 2. Изучите [PROTOCOL.md](./PROTOCOL.md), чтобы разобраться в формате команд.  
-3. Ознакомьтесь с [docs/integration.md](./docs/integration.md), чтобы внедрить шаблон в свой проект.  
-4. Посмотрите [docs/examples.md](./docs/examples.md) с примерами JSON-команд.
 
 ---
